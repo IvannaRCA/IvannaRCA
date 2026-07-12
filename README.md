@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:490070,100:A600FF&text=Hi%20there!%20I'm%20Ivanna&textBg=false&desc=Full-Stack%20Developer%20·%20IA%20·%20Teamwork%20·%20Git%20flow&descAlign=00&descAlignY=55&fontColor=FFFFFF&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:490070,100:A600FF&text=Hi%20there!%20I'm%20Ivanna&textBg=false&desc=Full-Stack%20Developer%20·%20IA%20·%20Teamwork%20·%20Git%20flow&descAlign=00&descAlignY=55&fontColor=FFFFFF&fontAlignY=40)
 <p align="center">
   <img style="border:1px solid white; border-radius:8px;" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img style="border:1px solid white; border-radius:8px" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
