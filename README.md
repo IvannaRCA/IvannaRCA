@@ -9,7 +9,7 @@
 
 ---
 
-## 🙋 About Me
+## 🙋🏻‍♀️ About Me
 
 I'm a backend-oriented developer who enjoys turning complex logic into clean, well-documented code. I care deeply about writing maintainable software following OOP and SOLID principles, and I find satisfaction in building systems that are not just functional, but easy to understand and extend. Beyond the technical side, I'm driven by the idea of building technology that creates real social impact and reflects strong values.
 
